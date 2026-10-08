@@ -1,4 +1,4 @@
-package WEEK3;
+package task3;
 
 public class ComparetheTriplets {
     static int[] triple(int[]a,int[]b){

@@ -1,4 +1,4 @@
-package week6;
+package task6;
 import java.util.Arrays;
 import java.util.Scanner;
 public class movezero {

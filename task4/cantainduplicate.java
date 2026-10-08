@@ -1,4 +1,4 @@
-package week4;
+package task4;
 import java.util.*;
 public class cantainduplicate {
     static boolean cantaindulicate(int[] nums){

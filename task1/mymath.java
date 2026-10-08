@@ -1,4 +1,4 @@
-package week1;
+package task1;
 
 import java.util.Scanner;
 public class mymath {

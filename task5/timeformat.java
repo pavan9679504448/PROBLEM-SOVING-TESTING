@@ -1,4 +1,4 @@
-package week5;
+package task5;
 import java.util.*;
 public class timeformat {
     static String timecober(String time){
